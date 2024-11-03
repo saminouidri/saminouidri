@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**saminouidri/saminouidri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+From an early age, I was captivated by the world of computers, programming, and electronics 🤖
 
-Here are some ideas to get you started:
+Now, I’m dedicated to building innovative software & cloud solutions ☁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As such, I tackle complex challenges in technology, by drawing on my diverse background as an electronic technician and computer scientist 😄
+
+## Quick info
+
+- 🌱 I’m currently learning Microsoft Azure & German 😄
+- 📫 How to reach me: send me an e-mail 👀
+- ⚡ Fun fact: We would have had flying cars by now if x86 had lost the instruction set war.
+
+
+
+
