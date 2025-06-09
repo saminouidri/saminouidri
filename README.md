@@ -4,6 +4,10 @@ From an early age, I was captivated by the world of computers, programming, and 
 
 Now, I’m dedicated to building innovative software & cloud solutions ☁
 
+## Work at Swisstopo
+
+Contributions I've made to Swisstopo's open source projects can be seen here : https://github.com/sami-nouidri-swisstopo
+
 ## Quick info
 
 - 🌱 I’m currently preparing for an AWS certification & improving my German 😄
